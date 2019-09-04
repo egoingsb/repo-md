@@ -11,5 +11,11 @@ git@github.com:egoingsb/java-tutorial.git
 
   <project path="dir2/subdir1"
            name="egoing/java1.git" remote="origin" />
+  
+  <project path="dir3/repo-test-1"
+           name="egoingsb/repo-test-1.git" remote="origin" />
+
+  <project path="dir3/repo-test-2"
+         name="egoingsb/repo-test-2.git" remote="origin" />
 
 </manifest>
