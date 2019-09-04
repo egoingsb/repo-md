@@ -2,14 +2,14 @@
 <manifest>
   <remote name="origin" fetch="ssh://git@github.com/" />
   <default revision="master" remote="origin" />
+git@github.com:egoingsb/java-tutorial.git
+  <project path="dir1/subdir1"
+           name="egoingsb/java-tutorial.git" remote="origin" />
 
-  <project path="lib/plist-lib"
-           name="keiji/AndroidPListLib.git" remote="origin" />
+  <project path="dir1/subdir2"
+           name="egoingsb/git-pr-exp.git" remote="origin" />
 
-  <project path="lib/json-pull-parser"
-           name="vvakame/JsonPullParser.git" remote="origin" />
-
-  <project path="apps/twicca_megane_plugin"
-           name="zaki50/TwiccaMeganePlugin.git" remote="origin" />
+  <project path="dir2/subdir1"
+           name="egoing/java1.git" remote="origin" />
 
 </manifest>
